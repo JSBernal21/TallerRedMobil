@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<GroundOverlay><name>Barranquilla (Con Grilla colores).bmp</name><color>88ffffff</color><Icon>
+<href>Barranquilla (Con Grilla colores).bmp</href>
+<viewBoundScale>0.75</viewBoundScale></Icon><LatLonBox>
+<north> 11.11001</north>
+<south> 10.80608</south>
+<east>-74.51231</east>
+<west>-75.20154</west>
+</LatLonBox></GroundOverlay></kml>
