@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<GroundOverlay><name>Torre 18 omni 11dB 15m.bmp</name><color>88ffffff</color><Icon>
+<href>Torre 18 omni 11dB 15m.bmp</href>
+<viewBoundScale>0.75</viewBoundScale></Icon><LatLonBox>
+<north> 11.11</north>
+<south> 10.80608</south>
+<east>-74.51236</east>
+<west>-75.20151</west>
+</LatLonBox></GroundOverlay></kml>
